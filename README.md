@@ -1,2 +1,2 @@
 # Proyecto-aula-complementaria
-Proyecto aula complementaria Predicción del tipo de cambio EUR/USD usando variables macroeconómicas
+Proyecto de aula análisis de los factores macroeconómicos que explican la evolución del tipo de cambio EUR/USD. 
